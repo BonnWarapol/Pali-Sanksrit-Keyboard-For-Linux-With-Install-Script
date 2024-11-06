@@ -1,6 +1,6 @@
-# Pali sanksrit keyboard for linux
+# Pali sanksrit keyboard for Ubuntu
 
-A linux keyboard for typing pāli and sanskrit diactrics ( i.e ā ī ū ē ō ñ ṭ ḍ ṇ ḷ ḥ ś ṣ ṛ ṝ ṃ ŋ ṁ √ ) .
+A ubuntu keyboard for typing pāli and sanskrit diactrics ( i.e ā ī ū ē ō ñ ṭ ḍ ṇ ḷ ḥ ś ṣ ṛ ṝ ṃ ŋ ṁ √ ) .
 
 ## Instructions
 1. Copy the file `pi` into `/usr/share/X11/xkb/symbols` .
