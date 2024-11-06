@@ -1,6 +1,11 @@
-# Pali sanksrit keyboard for Ubuntu
+# Pali sanksrit keyboard for Linux With Installation Script
+A script to install linux keyboard for typing pāli and sanskrit diactrics ( i.e ā ī ū ē ō ñ ṭ ḍ ṇ ḷ ḥ ś ṣ ṛ ṝ ṃ ŋ ṁ √ ) .
 
-A ubuntu keyboard for typing pāli and sanskrit diactrics ( i.e ā ī ū ē ō ñ ṭ ḍ ṇ ḷ ḥ ś ṣ ṛ ṝ ṃ ŋ ṁ √ ) .
+# Installation
+> cd to-script-directory
+> sudo sh install.sh
+
+# What does the script do?
 
 ## Instructions
 1. Copy the file `pi` into `/usr/share/X11/xkb/symbols` .
