@@ -3,6 +3,7 @@ A script to install linux keyboard for typing pāli and sanskrit diactrics ( i.e
 
 # Installation
 > cd to-script-directory
+>
 > sudo sh install.sh
 
 # What does the script do?
