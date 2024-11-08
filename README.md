@@ -41,5 +41,3 @@ You can use the `us` keybaord to overwrite your existing us keybaord in `/usr/sh
 11. Type pāli āṇḍ śāṇśkṛīṭ diactrics with shift key . 
 #Do on your own risk
 The installation script is written for myself, so be careful of using it.
-=======
->>>>>>> refs/remotes/origin/main
