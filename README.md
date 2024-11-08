@@ -6,10 +6,12 @@ A script to install linux keyboard for typing pāli and sanskrit diactrics ( i.e
 You can use the `us` keybaord to overwrite your existing us keybaord in `/usr/share/X11/xkb/symbols` , and type diacritics with the `right alt` key . 
 > sudo cp src/us /usr/share/X11/xkb/symbols
 ## Another Method
+1. Run this command...
 > cd to-script-directory
 >
 > sudo sh install.sh
-
+2. Reboot.
+3. type diacritics with the `right alt` key. 
 ## What does the installation script do?
 
 ### Instructions
